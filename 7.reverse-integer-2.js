@@ -1,3 +1,7 @@
+/*
+ * Math
+ */
+
 const reverse = function(x) {
     let result = 0;
 

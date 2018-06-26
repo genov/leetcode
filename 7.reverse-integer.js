@@ -1,3 +1,7 @@
+/*
+ * Math
+ */
+
 function reverseInt(x) {
     let inputArr = Math.abs(x).toString().split('');
     let i = inputArr.length - 1;

@@ -1,3 +1,7 @@
+/*
+ * Hash Table, Arrays
+ */
+
 function twoSum(nums, target) {
     let map = {};
     let index = 0;
