@@ -49,4 +49,4 @@ console.log('4', result4);
 // Input: "(("
 // Output: false
 const result5 = isValid('((');
-console.log('5', result5);
+console.log('5', result5);0
